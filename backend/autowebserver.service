@@ -1,5 +1,5 @@
 [Unit]
-Description=Team Civitas Website
+Description=Auto Updating Flask Webserver
 After=network.target
 
 [Service]
